@@ -4,10 +4,10 @@ export const Container = styled.div`
   display: flex;
   padding: 70px 56px;
   margin: auto;
-  max-width: 1000px;
+  max-width: 950px;
   flex-direction: column;
 
-  @media (max-width: 1000px) {
+  @media (max-width: 950px) {
     padding: 70px 30px;
   }
 `;
